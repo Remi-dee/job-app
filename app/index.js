@@ -1,5 +1,7 @@
-import { Text, View } from 'react-native'
+import { Text, View, ScrollView, SafeAreaView } from 'react-native'
+import { Stack, useRouter } from "expo-router";
 
+import { COLORS, icons, images, SIZES } from "../constants";
 function Home() {
   return (
     <View>
