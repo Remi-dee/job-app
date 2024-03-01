@@ -3,7 +3,7 @@ import { Text, View } from 'react-native-web'
 function Home() {
   return (
     <View>
-      <Text>Home</Text>
+      <Text>gtthfhghg</Text>
     </View>
   )
 }
